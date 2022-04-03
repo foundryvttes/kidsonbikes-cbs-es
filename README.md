@@ -8,11 +8,11 @@ Este módulo es compatible con el sistema Custom System Builder.
 
 # Instrucciones de uso:
 
-1. desde el menú de descarga de módulos, usar el manifest https://raw.githubusercontent.com/foundryvttes/kidsonbikes-cbs-es/main/module.json
-2. crear un mundo con el sistema Custom System Builder
-3. activar el módulo desde el interior del mundo/campaña.
-4. importar las hojas al mundo desde la pestaña de compendios
-5. crear nuevos actores usando como plantilla las hojas importadas
+1. Desde el menú de descarga de módulos, usar el manifest https://raw.githubusercontent.com/foundryvttes/kidsonbikes-cbs-es/main/module.json
+2. Crear un mundo con el sistema Custom System Builder
+3. Activar el módulo desde el interior del mundo/campaña.
+4. Importar las hojas al mundo desde la pestaña de compendios
+5. Crear nuevos actores usando como plantilla las hojas importadas
 
 # Disclaimer
 
