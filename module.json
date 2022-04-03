@@ -1,0 +1,24 @@
+{
+    "name": "kidsonbikes-cbs-es",
+    "title": "[ES] Hojas Personaje Kids on Bike ES",
+    "description": "A module containing the exported [ES] Hojas Personaje Kids on Bike ES compendium.",
+    "version": "1.0",
+    "library": "false",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Cal413",
+    "packs": [
+        {
+            "type": "Actor",
+            "label": "Fichas_PJ_PNJ_Kids on bikes ES",
+            "module": "kob_pj_es",
+            "path": "packs/world-fichaspjpnjkids-on-bikes-es-1647980787655.db",
+            "name": "world-fichaspjpnjkids-on-bikes-es-1647980787655"
+        }
+    ],
+  "system": "custom-system-builder",
+  "systemVersion": "1.3.0",
+  "url": "https://github.com/foundryvttes/kidsonbikes-cbs-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvttes/kidsonbikes-cbs-es/main/module.json",
+  "download": "https://github.com/foundryvttes/kidsonbikes-cbs-es/archive/master.zip"
+}
