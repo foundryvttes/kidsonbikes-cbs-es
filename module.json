@@ -2,7 +2,7 @@
     "name": "kidsonbikes-cbs-es",
     "title": "[ES] Hojas Personaje Kids on Bike ES",
     "description": "A module containing the exported [ES] Hojas Personaje Kids on Bike ES compendium.",
-    "version": "1.0",
+    "version": "1.1",
     "library": "false",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
